@@ -1,11 +1,6 @@
 # ISM4421
 
-This repo holds two separate Netlify sites:
-
-| Folder | App | Netlify base directory |
-|---|---|---|
-| `weather-app/` | Owl Weather (FAU-branded weather) | `weather-app` (root `netlify.toml`) |
-| `nfl-analytics/` | Prop Lab: NFL player prop analytics (research only, not a sportsbook) | `nfl-analytics` (see `nfl-analytics/README.md`) |
+The NFL prop analytics app that used to live here moved to its own repository: [bettingpropsbp](https://github.com/Bryanperez0/bettingpropsbp).
 
 ## Owl Weather (FAU weather app)
 
